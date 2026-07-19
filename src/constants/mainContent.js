@@ -24,11 +24,11 @@ export const MainContent = {
 export const backendConfig = {
   
 
-  // origin: import.meta.env.VITE_API_ORIGIN || "http://localhost:1013",
-  // base: import.meta.env.VITE_API_BASE_URL || "http://localhost:1013/api",
-
-  origin: import.meta.env.VITE_API_ORIGIN || "https://api.aiquantumcrypto.net",
-  base: import.meta.env.VITE_API_BASE_URL || "https://api.aiquantumcrypto.net/api",
+  origin: import.meta.env.VITE_API_ORIGIN || "https://aiquantumcrypto-backend-main.onrender.com",
+  base: import.meta.env.VITE_API_BASE_URL || "https://aiquantumcrypto-backend-main.onrender.com/api",
+  
+  // origin: import.meta.env.VITE_API_ORIGIN || "https://api.aiquantumcrypto.net",
+  // base: import.meta.env.VITE_API_BASE_URL || "https://api.aiquantumcrypto.net/api",
 
   
 };
